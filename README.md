@@ -1,5 +1,5 @@
 # Computer-Networks-I
-This repository contains the projects from the Computer Networks I course at Colorado School of Mines taken in Fall 2021. The README in each folder contains the project requirements and other necessary information.
+This repository contains the projects from the Computer Networks I course at Colorado School of Mines taken in Fall 2021. The README in each folder contains the project requirements and other necessary information. It is worth noting that this course focused primarily on learning new material about computer networks with a smaller focus on implementing the concepts. Thus, this repository only contains a relatively small number of projects.
 
 Welcome to Computer Networks I:
 This introduction to computer networks covers the fundamentals of computer communications.
